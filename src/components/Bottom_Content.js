@@ -17,7 +17,7 @@ import '../assets/css/widget.css';
 import '../assets/css/extra.css';
 import '../assets/css/responsive.css';
 import dmcy from '../assets/images/My Books/dmcyu_.jpeg';
-import medium from '../assets/images/medium.jpeg';
+import medium from '../assets/images/writing.jpeg';
 import msft from '../assets/images/msft.jpeg';
 
 function BottomContent() {
@@ -32,7 +32,7 @@ function BottomContent() {
                   </div>
                   <div class="col-lg-4 col-12">
                     <div class="cat-item"><a href="writing.html" class="img-wrap"><img src={medium} alt="Writing"/>
-                        <h2 class="heading">My Articles</h2></a></div>
+                        <h2 class="heading">My Articles & Blogs</h2></a></div>
                   </div>
                   <div class="col-lg-4 col-12">
                     <div class="cat-item"><a href="https://seykafu.notion.site/Seykafu-a8fda5021a274d82af74341b9a4a9f2e" class="img-wrap"><img src={msft} alt="Product"/>

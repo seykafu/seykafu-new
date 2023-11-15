@@ -21,11 +21,15 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import MainContent from './components/Main_Content';
 import BottomContent from './components/Bottom_Content';
+import Books from './components/Books';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+
 // import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 function App() {
   return (
-    
+    <Router>
+
     <div className="App">
       <header className="App-header">
         <body class="sticky-enable dark-mode">
@@ -39,6 +43,8 @@ function App() {
         <Footer />
       </header>
     </div>
+
+  </Router>
   );
 }
 
