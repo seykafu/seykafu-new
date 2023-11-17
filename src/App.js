@@ -17,32 +17,36 @@ import './assets/css/shortcode.css';
 import './assets/css/widget.css';
 import './assets/css/extra.css';
 import './assets/css/responsive.css';
+import HomePage from './pages/HomePage';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import MainContent from './components/Main_Content';
 import BottomContent from './components/Bottom_Content';
-import Books from './components/Books';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-
-// import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import Books from './pages/Books';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
     <Router>
 
-    <div className="App">
-      <header className="App-header">
-        <body class="sticky-enable dark-mode">
-          <div id="pagewrap" class="pagewrap">
-            
-              <Header />
-              <MainContent />
-              <BottomContent />
-          </div>
-        </body>
-        <Footer />
-      </header>
-    </div>
+      <div className="App">
+        <header className="App-header" style={{ backgroundColor: '#121212' }}>
+          <body class="sticky-enable dark-mode">
+            <div id="pagewrap" class="pagewrap">
+              <div id="html-content" class="wrapper-content">
+              
+                <Header />
+                <Routes>
+                <Route path="/" element={<HomePage />} />
+                  <Route path="/books" element={<Books />} />
+                  {/* Add more routes as needed */}
+                </Routes>
+              </div>
+            </div>
+          </body>
+          <Footer />
+        </header>
+      </div>
 
   </Router>
   );

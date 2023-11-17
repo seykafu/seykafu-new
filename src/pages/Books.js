@@ -19,6 +19,8 @@ import '../assets/css/responsive.css';
 import dmcy from '../assets/images/My Books/dmcyu_.jpeg';
 import coming_soon from '../assets/images/coming-soon.png';
 import corruptions from '../assets/images/My Books/corruptions.png';
+import green from '../assets/images/My Books/green.jpg';
+import depressed from '../assets/images/My Books/depressed.jpg';
 import Header_Desktop from '../components/Header_Desktop';
 
 function Books() {
@@ -160,7 +162,7 @@ function Books() {
                   </div>
                   <div class="col-md-6">
                     <div class="blog-item sub-item blog-center mbl">
-                      <div class="img-wrap"><img src={corruptions} alt="Corruptions"/></div>
+                      <div class="img-wrap"><img src={green} alt="Greed"/></div>
                       <div class="cat-heading">My Short Stories</div><a href="https://docs.google.com/document/d/1cwIo1jCKAuo-vtQTfikDHMCMELzgsTHAoQuMcwZhQF8/edit?usp=sharing" 
                       class="title">Green to Greed
                     </a>
@@ -179,7 +181,7 @@ function Books() {
                   </div>
                   <div class="col-md-6">
                     <div class="blog-item sub-item blog-center mbl">
-                      <div class="img-wrap"><img src={corruptions} alt="Corruptions"/></div>
+                      <div class="img-wrap"><img src={depressed} alt="Depression"/></div>
                       <div class="cat-heading">My Short Stories</div><a href="https://docs.google.com/document/d/1BNMSx5bfZK2nN9ebcU_YtjG5kORIeH-nhctxYPLfm90/edit?usp=sharing" 
                       class="title">An Impeccable Coin
                     </a>
@@ -195,7 +197,7 @@ function Books() {
                       </div>
                     </div>
                   </div>
-
+{/* 
                   <div class="col-md-6">
                     <div class="blog-item sub-item blog-center mbl">
                       <div class="img-wrap"><img src="./assets/images/blog/blog-square-04.jpg" alt="Alay"/></div>
@@ -222,7 +224,7 @@ function Books() {
                       </div>
                     </div>
                   </div>
-
+  */}
                </div>
               </div>
             </div>
@@ -242,6 +244,8 @@ function Books() {
           </div>
         </div>
       </div>
+
+{/* 
       <div class="section section-80">
         <div class="container">
           <div class="alay-sc-newsletter">
@@ -262,6 +266,8 @@ function Books() {
           </div>
         </div>
       </div>
+
+*/}
     </div>
   </div>
   </div>
