@@ -27,73 +27,19 @@ import Footer from '../components/Footer';
 function Books() {
   return (
     <div class="App">
-        <Header_Desktop />
+      <Header_Desktop />
+    <body class="sticky-enable dark-mode">
+    <div id="pagewrap" class="pagewrap">
+      <div id="html-content" class="wrapper-content">
+      
     <div class="page-container">
         <div class="page-content">
-            <section>
-                <div class="gallery-panel swin-panel-interesting">
-                    <div class="heading">
-                    <h6>My Books</h6>
-                    </div>
-                    <div class="gallery-list">
-                    <div class="row">
-                        <div class="col-lg-3 col-md-6">
-                        <div class="grid">
-                            <figure class="effect-jazz">
-                                <div class="img-wrap wrap-portrait"><img src={dmcy} alt="DMCY"/></div>
-                                <figcaption>
-                                    <p><a href="./assets/images_/My Books/dmcy.png" data-lightbox="about-gallery" class="gallery-icon"><i class="fa fa-search-plus"></i></a></p>
-                                    <p>Darkness Me, Colorful You</p>
-                                    <p>(YA Fantasy, Mystery, Action, Romance)</p>
-                                </figcaption>
-                            </figure>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                        <div class="grid">
-                            <figure class="effect-jazz">
-                            <div class="img-wrap"><img src={corruptions} alt="RomCom"/></div>
-                            <figcaption>
-                                <p><a href="./assets/images_/My Books/corruptions.png" data-lightbox="about-gallery" class="gallery-icon"><i class="fa fa-search-plus"></i></a></p>
-                                <p>Corruptions are best Exposed in the Autumn!</p>
-                                <p>(Romance, Comedy)</p>
-                            </figcaption>
-                            </figure>
-                        </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                        <div class="grid">
-                            <figure class="effect-jazz">
-                            <div class="img-wrap"><img src={coming_soon} alt="DMCY"/></div>
-                            <figcaption>
-                                <p><a href="./assets/images_/coming-soon.png" data-lightbox="about-gallery" class="gallery-icon"><i class="fa fa-search-plus"></i></a></p>
-                                <p>Darkness Me, Colorful You Vol. 2</p>
-                                <p>Coming 2023!</p>
-                            </figcaption>
-                            </figure>
-                        </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                        <div class="grid">
-                            <figure class="effect-jazz">
-                            <div class="img-wrap"><img src={coming_soon} alt="Book"/></div>
-                            <figcaption>
-                                <p><a href="./assets/images_/coming-soon.png" data-lightbox="about-gallery" class="gallery-icon"><i class="fa fa-search-plus"></i></a></p>
-                                <p>Snake-Bitten</p>
-                                <p>Coming 2023!</p>
-                            </figcaption>
-                            </figure>
-                        </div>
-                    </div>
-
-                    </div>
-                    </div>
-                </div>
-            </div>
-        <div class="mbsl"></div>
-      </section>
 
       <div class="section section-80">
         <div class="container">
+          <div class="container"> <br></br> </div>
+          <div class="about-heading"><h1 class="heading-name">My Books & Stories</h1>
+                        <span class="heading-job"><span></span><span>I've published 2 fiction novels & a few short stories.</span></span></div>
           <div class="row mbxxl">
             <div class="col-lg-12">
               <div class="alay-sc-blog-list style-vertical">
@@ -272,6 +218,9 @@ function Books() {
     </div>
   </div>
   <Footer />
+  </div>
+  </div>
+  </body>
   </div>
   );
 }

@@ -35,7 +35,6 @@ function App() {
             <div id="pagewrap" class="pagewrap">
               <div id="html-content" class="wrapper-content">
               
-                <Header />
                   <Routes>
                     <Route path="/" element={<HomePage />} />
                     <Route path="/books" element={<Books />} />
