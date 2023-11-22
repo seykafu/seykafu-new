@@ -20,7 +20,7 @@ import '../assets/css/responsive.css';
 
 const Footer = () => {
         return (
-            <div>
+            <div className="App">
                 <footer class="light">
                     <div class="site-info footer-bottom">
                     <div class="container">
@@ -42,6 +42,7 @@ const Footer = () => {
                     </div>
                     </div>
                 </footer><a id="totop" href="#" class="animated zoomIn"><i class="fa fa-angle-up"></i></a>
+                <div id="switch-mode"><span class="dark-mode mode-control"><i class="fa fa-moon-o"></i></span><span class="light-mode mode-control d-none"><i class="fa fa-sun-o"></i></span></div>
             </div>
         );
     };

@@ -36,15 +36,16 @@ function App() {
               <div id="html-content" class="wrapper-content">
               
                 <Header />
-                <Routes>
-                <Route path="/" element={<HomePage />} />
-                  <Route path="/books" element={<Books />} />
-                  {/* Add more routes as needed */}
-                </Routes>
+                  <Routes>
+                    <Route path="/" element={<HomePage />} />
+                    <Route path="/books" element={<Books />} />
+                      {/* Add more routes as needed */}
+                  </Routes>
               </div>
+              
             </div>
+            
           </body>
-          <Footer />
         </header>
       </div>
 

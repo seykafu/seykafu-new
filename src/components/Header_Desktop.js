@@ -11,7 +11,8 @@ import Books from '../pages/Books';
 
 const Header_Desktop = () => {
         return (
-            <div className="App">
+            <div id="pagewrap" class="pagewrap">
+                <div id="html-content" class="wrapper-content">
                 <header className="header">
                     <div className="header-main alay-section-full">
                         <div className="container">
@@ -46,6 +47,7 @@ const Header_Desktop = () => {
                         </div>
                     </div>
                 </header>
+            </div>
         </div>
     );
 };
