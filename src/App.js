@@ -23,6 +23,7 @@ import Footer from './components/Footer';
 import MainContent from './components/Main_Content';
 import BottomContent from './components/Bottom_Content';
 import Books from './pages/Books';
+import Manga from './pages/Manga';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
@@ -38,6 +39,7 @@ function App() {
                   <Routes>
                     <Route path="/" element={<HomePage />} />
                     <Route path="/books" element={<Books />} />
+                    <Route path="/manga" element={<Manga />} />
                       {/* Add more routes as needed */}
                   </Routes>
               </div>
