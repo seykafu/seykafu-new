@@ -26,8 +26,9 @@ import Footer from '../components/Footer';
 
 function Books() {
   return (
-    <div class="App">
+    <div>
       <Header_Desktop />
+      <section>
     <body class="sticky-enable dark-mode">
     <div id="pagewrap" class="pagewrap">
       <div id="html-content" class="wrapper-content">
@@ -217,10 +218,12 @@ function Books() {
 */}
     </div>
   </div>
-  <Footer />
+  
   </div>
   </div>
   </body>
+  </section>
+  <Footer />
   </div>
   );
 }

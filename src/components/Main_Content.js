@@ -44,8 +44,8 @@ function MainContent() {
                         <p>I'm a product manager, writer, aspiring entrepreneur, and game enthusiast (I like strategy and tactical RPG). I hold many interests and have worked on many side projects.</p>
 
                         <h4>What do I do?</h4>
-                        <p>I'm a PM in the AI space. I was previously at Microsoft Bing, shipping AI models and features in their backend platform, and now I'm at Planview,
-                          shipping a new AI copilot for its broad client base. In general, I'm interested in industries such as gaming, enterprise, and content creation.
+                        <p>I'm a PM in the AI space. I was previously at Microsoft Bing, shipping AI models and features in their backend platform. Now I'm at Planview,
+                          shipping a new AI copilot for its broad range of customers. In general, I'm interested in industries such as gaming, enterprise, and content creation.
                         </p>
 
                         <h4>My other projects</h4>
