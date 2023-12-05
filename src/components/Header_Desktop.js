@@ -26,10 +26,10 @@ const Header_Desktop = () => {
                                     <ul id="main-nav" className="nav nav-pills">
                                         <li className="menu-item nav-item"><Link to="/" className="dropdown-text nav-link"><i className="fa fa-angle-down btn-open-dropdown"></i>Home</Link> </li>
                                         <li className="menu-item nav-item">
-                                            <Link to="/books" className="dropdown-text nav-link">My Books/Stories</Link>
+                                            <Link to="/books" className="dropdown-text nav-link">My Books & Writing</Link>
                                         </li>
                                         {/* <li className="menu-item nav-item"><Link to="https://seykafu.notion.site/Seykafu-a8fda5021a274d82af74341b9a4a9f2e" className="dropdown-text nav-link">Past Projects</Link></li> */}
-                                        <li className="menu-item nav-item"><Link to="/mediums" className="dropdown-text nav-link">Medium Blog</Link></li>
+                                        <li className="menu-item nav-item"><Link to="/Projects" className="dropdown-text nav-link">Projects</Link></li>
 
                                         <li className="menu-item nav-item menu-item-has-children dropdown current-menu-item"><Link to="/manga" className="dropdown-text nav-link"><i className="fa fa-angle-down btn-open-dropdown"></i>Manga Reviews</Link>
                                             <ul className="dropdown-menu">

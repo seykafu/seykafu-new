@@ -24,6 +24,7 @@ import MainContent from './components/Main_Content';
 import BottomContent from './components/Bottom_Content';
 import Books from './pages/Books';
 import Manga from './pages/Manga';
+import Projects from './pages/Projects';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import DemonSlayer from './pages/manga/DS';
 
@@ -41,7 +42,11 @@ function App() {
                     <Route path="/" element={<HomePage />} />
                     <Route path="/books" element={<Books />} />
                     <Route path="/manga" element={<Manga />} />
+<<<<<<< HEAD
                     <Route path="/demon-slayer" element={<DemonSlayer />} />
+=======
+                    <Route path="/projects" element={<Projects />} />
+>>>>>>> 931df9308b83c1dc463231ff27f97e1715ac73c1
                       {/* Add more routes as needed */}
                   </Routes>
               </div>

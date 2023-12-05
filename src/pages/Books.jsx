@@ -177,19 +177,6 @@ function Books() {
               </div>
             </div>
           </div>
-          <div class="row mbxxl">
-            <div class="col-12">
-              <div class="pagination justify-content-center">
-                <ul class="list-unstyled text-center">
-                  <li class="pagi-prev"><a href="#">Prev</a></li>
-                  <li><a href="#">1</a></li>
-                  <li class="active"><a href="#">2</a></li>
-                  <li><a href="#">3</a></li>
-                  <li class="pagi-next"><a href="#">Next</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
 
