@@ -40,7 +40,7 @@ const Header_Desktop = () => {
                                             </ul>
                                         </li>
                                         {/* <li className="menu-item nav-item"><Link to="/contact" className="main-text nav-link">Contact</Link></li> */}
-                                        <li className="menu-item nav-item"><Link to="/about" className="main-text nav-link">About</Link></li>
+                                        <li className="menu-item nav-item"><Link to="/blog" className="main-text nav-link">Product Blog</Link></li>
                                     </ul>
                                 </div>
                             </nav>
