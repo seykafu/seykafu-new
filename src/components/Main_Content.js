@@ -39,17 +39,18 @@ function MainContent() {
                       <p class="text-center"><a href="mailto:authorjxfu@gmail.com" class="swin-text-primary">authorjxfu@gmail.com</a></p>
                     </div>
                     <div class="col-lg-8">
-                      <div class="about-heading"><span class="heading-name">Kasey/JX Fu's Website!</span>
-                        <span class="heading-job"><span>/</span><span>PM, Writer, and Game + Manga fanatic!</span></span></div>
-                        <p>I'm a product manager, writer, aspiring entrepreneur, and game enthusiast (I like strategy and tactical RPG). I hold many interests and have worked on many side projects.</p>
+                      <div class="about-heading"><span class="heading-name">Kasey/JX Fu</span>
+                        <span class="heading-job"><span>/</span><span>PM, Writer, Community Builder, Author</span></span></div>
+                        <p>I'm a product manager, writer, community co-founder, and game/manga enthusiast. I hold many interests and have worked on many side projects.</p>
 
                         <h4>What do I do?</h4>
                         <p>I'm a PM in the AI space. I was previously at Microsoft Bing, shipping AI models and features in their backend platform. Now I'm at Planview,
-                          shipping a new AI copilot for its broad range of customers. In general, I'm interested in industries such as gaming, enterprise, and content creation.
+                          shipping a new AI copilot for its broad range of customers. In general, I'm interested in AI, gaming, and writing.
                         </p>
 
                         <h4>My other projects</h4>
-                      <p>I'm a part-time writer & a published fiction author; my books include a YA Fantasy/Action titled <a href="https://www.amazon.com/dp/B0BJZXKMM9" 
+                      <p>I'm the co-founder of <a href="https://linktr.ee/pmhive"><u>PM Hive</u></a>, Vancouver's best community of PMs in tech!</p>
+                      <p>I'm also a part-time writer & a published fiction author; my books include a YA Fantasy/Action titled <a href="https://www.amazon.com/dp/B0BJZXKMM9" 
                           class="title"><u>"Darkness Me, Colorful You"</u></a> and a RomCom light novel titled <a href="https://www.amazon.com/Corruptions-Are-Best-Exposed-Autumn-ebook/dp/B0BJ27R74M/ref=sr_1_1?crid=24XNNFKGALXA9&keywords=corruptions+are+best+exposed+in+the+autumn&qid=1665868843&qu=eyJxc2MiOiIwLjA2IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=corruptions+are+best+exposed+in+the+autumn%2Caps%2C133&sr=8-1"> <u>"Corruptions Are Best Exposed In The Autumn!"</u>
                           </a>
                         </p>
@@ -58,7 +59,7 @@ function MainContent() {
                           <p>Before diving into writing and PM work, I graduated with a Bachelor's of Science in Science and Business from the University of Waterloo.
                             I've completed many internships in product before graduating. I've been involved in many activities - you can see them all here. 
                           </p>
-                        Here, you'll find more about me, my <a href= "https://seykafu.medium.com"> <u>Medium blog</u></a>, <a href="books.html"> <u>my books</u></a>, and my <a href="manga_reviews.html"> <u>manga review blog</u></a>!
+                        Here, you'll find more about me, my <a href= "https://seykafu.medium.com"> <u>PM and career articles</u></a>, and<a href="books.html"> <u>my books</u></a>!
                     </div>
                   </div>
                 </div>

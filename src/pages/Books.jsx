@@ -54,17 +54,16 @@ function Books() {
               
                       <p class="content">
                         500 years ago, a powerful beast named "Baku" arrived in the continent known as Perpetua, aiming to destroy all of humanity. After the Goddess defeated this monster, she was warned that he would one day return in the future.
-                        Meanwhile, in the present, Koka Ferrers is a young man who has more than a few sins from his unknown past, and everyone around him, even the Goddess  
-                        - Valentina Jasper - who’s regarded as a legend for having once saved the world, absolutely hates his guts... just what can he even do?
+                        Meanwhile, in the present, Koka Ferrers is a young amnesiac with a mysterious past. Everyone around him, even the Goddess  
+                        - Valentina Jasper - who’s regarded as a legend for having once saved the world, absolutely despises him.
                       </p>
                       <p/>
-                        He has only one choice: search for those lost memories, stop the incoming beast that is Baku, redeem himself by fighting through the fire of hatred 
+                        Now, he must search for those lost memories, stop the incoming beast, redeem himself by fighting through the fire of hatred 
                         directed at him, and befriend Valentina. Throughout this journey, he may even uncover the true culprit pulling the strings behind Baku's return and the mysterious lore which everyone believed so much in.
                       <p>
-                        Ultimately, this book is a YA (Young Adult) series with fantasy, action, romance and mystery as its main genres. I'm using one of the ancient 
+                        Ultimately, this book is a young adult series with fantasy, action, and mystery as its main genres. I'm using one of the ancient 
                         7 Wonders of the World (<a href="https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon"><u>Hanging Gardens of Babylon</u></a>) as a 
-                        significant piece of the setting with strong significance to the plot. Other aspects of my book - 
-                        the setting, character appearances, names, etc. - is inspired by a mix of Victorian England and the 
+                        significant piece of the setting and plot. Other aspects of my book such as the setting and clothing are inspired by a mix of Victorian England and the 
                         ancient Middle East, and involves magic (in the story, it's called "jiku")!
                       </p>
                       <div class="block-footer">

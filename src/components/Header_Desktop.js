@@ -30,17 +30,9 @@ const Header_Desktop = () => {
                                         </li>
                                         {/* <li className="menu-item nav-item"><Link to="https://seykafu.notion.site/Seykafu-a8fda5021a274d82af74341b9a4a9f2e" className="dropdown-text nav-link">Past Projects</Link></li> */}
                                         <li className="menu-item nav-item"><Link to="https://seykafu.notion.site/seykafu/Seykafu-a8fda5021a274d82af74341b9a4a9f2e" className="dropdown-text nav-link">Projects</Link></li>
-
-                                        <li className="menu-item nav-item menu-item-has-children dropdown current-menu-item"><Link to="/manga" className="dropdown-text nav-link"><i className="fa fa-angle-down btn-open-dropdown"></i>Manga Reviews</Link>
-                                            <ul className="dropdown-menu">
-                                                <li className="menu-item nav-item"><Link to="/comedy" className="dropdown-text nav-link">Comedy</Link></li>
-                                                <li className="menu-item nav-item"><Link to="/action" className="dropdown-text nav-link">Action</Link></li>
-                                                <li className="menu-item nav-item"><Link to="/drama" className="dropdown-text nav-link">Drama</Link></li>
-                                                <li className="menu-item nav-item"><Link to="/romance" className="dropdown-text nav-link">Romance</Link></li>
-                                            </ul>
-                                        </li>
                                         {/* <li className="menu-item nav-item"><Link to="/contact" className="main-text nav-link">Contact</Link></li> */}
-                                        <li className="menu-item nav-item"><Link to="/blog" className="main-text nav-link">Product Blog</Link></li>
+                                        <li className="menu-item nav-item"><Link to="https://seykafu.medium.com/" className="main-text nav-link">Blog</Link></li>
+                                        <li className="menu-item nav-item"><Link to="https://linktr.ee/pmhive" className="main-text nav-link">PM Hive</Link></li>
                                     </ul>
                                 </div>
                             </nav>

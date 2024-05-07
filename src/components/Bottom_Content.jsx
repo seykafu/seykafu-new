@@ -31,7 +31,7 @@ function BottomContent() {
                         <h2 className="heading">My Books</h2></a></div>
                   </div>
                   <div className="col-lg-4 col-12">
-                    <div className="cat-item"><a href="writing.html" className="img-wrap"><img src={medium} alt="Writing"/>
+                    <div className="cat-item"><a href="https://seykafu.medium.com/" className="img-wrap"><img src={medium} alt="Writing"/>
                         <h2 className="heading">My Articles & Blogs</h2></a></div>
                   </div>
                   <div className="col-lg-4 col-12">
