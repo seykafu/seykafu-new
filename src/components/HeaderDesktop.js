@@ -7,7 +7,6 @@ import '../assets/css/extra.css';
 import '../assets/css/responsive.css';
 import '../assets/vendors/bootstrap/css/bootstrap.min.css';
 import { Link } from 'react-router-dom';
-import Books from '../pages/Books';
 
 const Header_Desktop = () => {
         return (

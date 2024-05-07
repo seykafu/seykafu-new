@@ -20,7 +20,7 @@ import gamedev from '../assets/images/gamedev.jpeg';
 import writing from '../assets/images/writing.jpeg';
 import sunset from '../assets/images/sunsetglow.jpg';
 
-import Header_Desktop from '../components/Header_Desktop';
+import Header_Desktop from '../components/HeaderDesktop';
 import Footer from '../components/Footer';
 
 const Blogs = () => {

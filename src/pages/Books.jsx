@@ -17,11 +17,10 @@ import '../assets/css/widget.css';
 import '../assets/css/extra.css';
 import '../assets/css/responsive.css';
 import dmcy from '../assets/images/My Books/dmcyu_.jpeg';
-import coming_soon from '../assets/images/coming-soon.png';
 import corruptions from '../assets/images/My Books/corruptions.png';
 import green from '../assets/images/My Books/green.jpg';
 import depressed from '../assets/images/My Books/depressed.jpg';
-import Header_Desktop from '../components/Header_Desktop';
+import Header_Desktop from '../components/HeaderDesktop';
 import Footer from '../components/Footer';
 
 function Books() {

@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from '../assets/images/logo_seykafu.png';
 import '../App.css';
 import '../assets/vendors/bootstrap/css/bootstrap.min.css';
 import '../assets/vendors/font-awesome/css/font-awesome.min.css';
