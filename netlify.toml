@@ -13,7 +13,7 @@
   # path "root/project/build-output"
 
   publish = "build-output/"
-  CI = 'false'
+  CI = false
 
   # Default build command.
   command = "echo 'default context'"
