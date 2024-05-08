@@ -20,7 +20,7 @@ import dmcy from '../assets/images/My Books/dmcyu_.jpeg';
 import corruptions from '../assets/images/My Books/corruptions.png';
 import green from '../assets/images/My Books/green.jpg';
 import depressed from '../assets/images/My Books/depressed.jpg';
-import Header_Desktop from '../components/HeaderDesktop';
+import Header_Desktop from '../components/Header_Desktop';
 import Footer from '../components/Footer';
 
 function Books() {
