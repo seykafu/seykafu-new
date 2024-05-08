@@ -20,13 +20,13 @@ import gamedev from '../assets/images/gamedev.jpeg';
 import writing from '../assets/images/writing.jpeg';
 import sunset from '../assets/images/sunsetglow.jpg';
 
-import Header_Desktop from '../components/Header_Desktop';
+import HeaderDesktop from '../components/HeaderDesktop';
 import Footer from '../components/Footer';
 
 const Blogs = () => {
     return (
         <div className="App">
-        <Header_Desktop />
+        <HeaderDesktop />
         <section/>
             <div class="page-container">
                 <div class="page-content">

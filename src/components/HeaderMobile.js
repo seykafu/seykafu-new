@@ -7,7 +7,7 @@ import '../assets/css/responsive.css'
 import '../assets/vendors/bootstrap/css/bootstrap.min.css'
 
 
-const Header_Mobile = () => {
+const HeaderMobile = () => {
         return (
                 <header className="header">
                 <div className="header-mobile">
@@ -32,4 +32,4 @@ const Header_Mobile = () => {
         );
 };
 
-export default Header_Mobile;
+export default HeaderMobile;

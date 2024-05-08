@@ -8,7 +8,7 @@ import '../assets/css/responsive.css';
 import '../assets/vendors/bootstrap/css/bootstrap.min.css';
 import { Link } from 'react-router-dom';
 
-const Header_Desktop = () => {
+const HeaderDesktop = () => {
         return (
             <div id="pagewrap" class="pagewrap">
                 <div id="html-content" class="wrapper-content">
@@ -43,4 +43,4 @@ const Header_Desktop = () => {
     );
 };
 
-export default Header_Desktop;
+export default HeaderDesktop;

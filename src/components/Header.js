@@ -1,6 +1,6 @@
 import React from 'react';
-import Header_Desktop from './Header_Desktop';
-import Header_Mobile from './HeaderMobile';
+import HeaderDesktop from './HeaderDesktop';
+import HeaderMobile from './HeaderMobile';
 import '../assets/css/layout.css';
 
 

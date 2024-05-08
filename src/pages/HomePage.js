@@ -1,6 +1,6 @@
 // HomePage.js
 import React from 'react';
-import MainContent from '../components/Main_Content';
+import MainContent from '../components/MainContent';
 import BottomContent from '../components/Bottom_Content';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
