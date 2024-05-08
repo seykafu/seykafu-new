@@ -19,7 +19,7 @@ const Header = () => {
         };
     }, []);
 
-    return isMobile ? <Header_Mobile /> : <Header_Desktop />;
+    return isMobile ? <HeaderMobile /> : <HeaderDesktop />;
 };
 
 export default Header;
