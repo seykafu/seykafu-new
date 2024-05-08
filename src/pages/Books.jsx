@@ -67,7 +67,7 @@ function Books() {
                       </p>
                       <div class="block-footer">
                         <div class="meta-infor">
-                          <div class="author item"><span class="pre">By</span><a href="about.html" class="text">J.X. Fu</a></div><a href="https://seykafu.notion.site/seykafu/Darkness-Me-Colorful-You-1abf9cba146a4f16bc24f7eee9d9720e" class="date item"> Nov 1, 2022</a> <a href="https://seykafu.notion.site/seykafu/Darkness-Me-Colorful-You-1abf9cba146a4f16bc24f7eee9d9720e">Read more!</a>
+                          <div class="author item"><span class="pre">By</span><a href="https://seykafu.com" class="text">J.X. Fu</a></div><a href="https://seykafu.notion.site/seykafu/Darkness-Me-Colorful-You-1abf9cba146a4f16bc24f7eee9d9720e" class="date item"> Nov 1, 2022</a> <a href="https://seykafu.notion.site/seykafu/Darkness-Me-Colorful-You-1abf9cba146a4f16bc24f7eee9d9720e">Read more!</a>
                         </div>
                         <div class="clearfix"></div>
                       </div>
@@ -100,7 +100,7 @@ function Books() {
                       </p>
                       <div class="block-footer">
                         <div class="meta-infor">
-                          <div class="author item"><span class="pre">By</span><a href="about.html" class="text">J.X. Fu</a></div><a href="" class="date item"> Sept 1, 2022</a>
+                          <div class="author item"><span class="pre">By</span><a href="https://seykafu.com" class="text">J.X. Fu</a></div><a class="date item"> Sept 1, 2022</a>
                         </div>
                         <div class="clearfix"></div>
                       </div>
@@ -119,7 +119,7 @@ function Books() {
                       </p>
                       <div class="block-footer">
                         <div class="meta-infor">
-                          <div class="author item"><span class="pre">By</span><a href="about.html" class="text">J.X. Fu</a></div><a href="https://seykafu.notion.site/seykafu/Darkness-Me-Colorful-You-1abf9cba146a4f16bc24f7eee9d9720e" class="date item"> Nov 1, 2022</a> <a href="https://seykafu.notion.site/seykafu/Darkness-Me-Colorful-You-1abf9cba146a4f16bc24f7eee9d9720e">Read more!</a>
+                          <div class="author item"><span class="pre">By</span><a href="https://seykafu.com" class="text">J.X. Fu</a></div><a href="https://seykafu.notion.site/seykafu/Darkness-Me-Colorful-You-1abf9cba146a4f16bc24f7eee9d9720e" class="date item"> Nov 1, 2022</a> <a href="https://seykafu.notion.site/seykafu/Darkness-Me-Colorful-You-1abf9cba146a4f16bc24f7eee9d9720e">Read more!</a>
                         </div>
                         <div class="clearfix"></div>
                       </div>
@@ -137,7 +137,7 @@ function Books() {
                       </p>
                       <div class="block-footer">
                         <div class="meta-infor">
-                          <div class="author item"><span class="pre">By</span><a href="about.html" class="text">J.X. Fu</a></div><a href="https://seykafu.notion.site/seykafu/Darkness-Me-Colorful-You-1abf9cba146a4f16bc24f7eee9d9720e" class="date item"> Nov 1, 2022</a> <a href="https://seykafu.notion.site/seykafu/Darkness-Me-Colorful-You-1abf9cba146a4f16bc24f7eee9d9720e">Read more!</a>
+                          <div class="author item"><span class="pre">By</span><a href="https://seykafu.com" class="text">J.X. Fu</a></div><a href="https://seykafu.notion.site/seykafu/Darkness-Me-Colorful-You-1abf9cba146a4f16bc24f7eee9d9720e" class="date item"> Nov 1, 2022</a> <a href="https://seykafu.notion.site/seykafu/Darkness-Me-Colorful-You-1abf9cba146a4f16bc24f7eee9d9720e">Read more!</a>
                         </div>
                         <div class="clearfix"></div>
                       </div>
