@@ -100,7 +100,7 @@ function Books() {
                       </p>
                       <div class="block-footer">
                         <div class="meta-infor">
-                          <div class="author item"><span class="pre">By</span><a href="https://seykafu.com" class="text">J.X. Fu </a>
+                          <div class="author item"><span class="pre">By</span><a href="https://seykafu.com" class="text">J.X. Fu </a> </div>
                         </div>
                         <div class="clearfix"></div>
                       </div>
