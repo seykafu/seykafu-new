@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Manga Review</title>
+    <!-- Bootstrap CSS-->
+    <link href="assets/vendors/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome-->
+    <link rel="stylesheet" href="assets/vendors/font-awesome/css/font-awesome.min.css">
+    <!-- Vendors-->
+    <link rel="stylesheet" href="assets/vendors/slick/slick.min.css">
+    <link rel="stylesheet" href="assets/vendors/slick/slick-theme.min.css">
+    <link rel="stylesheet" href="assets/vendors/animate.min.css">
+    <link rel="stylesheet" href="assets/vendors/magnific-popup/magnific-popup.css">
+    <link rel="stylesheet" href="assets/vendors/bootstrap-datepicker/css/bootstrap-datepicker.min.css">
+    <link rel="stylesheet" href="assets/vendors/fullscreen-overlay/css/style5.css">
+    <link rel="stylesheet" href="assets/vendors/lightbox/css/lightbox.min.css">
+    <script src="assets/vendors/modernizr.custom.js"></script>
+    <!-- Font-icon-->
+    <link rel="stylesheet" href="assets/fonts/font-icon/style.css">
+    <!-- Style-->
+    <link rel="stylesheet" type="text/css" href="assets/css/layout.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/elements.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/shortcode.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/widget.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/extra.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
+    <!-- Google Font-->
+    <link href="https://fonts.googleapis.com/css?family=Overpass:300,400,600,800,900" rel="stylesheet">
+  </head>
+  <body class="sticky-enable p-news-detail blog-single dark-mode">
+    <div id="pagewrap" class="pagewrap">
+      <div id="html-content" class="wrapper-content">
+        <header class="header">
+            <div class="header-main alay-section-full">
+              <div class="container">
+                <div class="open-menuMobile">☰</div>
+                <div class="header-logo"><a href="index.html" class="logo"><img src="./assets/images_/logo_seykafu.png" alt="Alay" class="logo-sticky logo-black"><img src="./assets/images_/logo_seykafu.png" alt="Alay" class="logo-sticky logo-white"></a></div>
+                <div class="utility-nav"><span id="trigger-overlay" class="trigger-search-bar"><i class="fa fa-search"></i></span></div>
+                <!-- header logo-->
+                <!-- main menu-->
+                <nav class="main-nav-wrapper">
+                  <div class="main-nav">
+                    <ul id="main-nav" class="nav nav-pills">
+                      <li class="menu-item nav-item"><a href="index.html" class="dropdown-toggle nav-link"><i class="fa fa-angle-down btn-open-dropdown"></i>Home</a> </li>
+                      <!-- <li class="menu-item nav-item"><a href="https://seykafu.notion.site/Seykafu-a8fda5021a274d82af74341b9a4a9f2e" class="dropdown-text nav-link">Past Projects</a></li> -->
+                      <li class="menu-item nav-item"><a href="mediums.html" class="dropdown-text nav-link">Medium Blog</a></li>
+                      <li class="menu-item nav-item"><a href="books.html" class="dropdown-text nav-link">My Books</a></li>
+  
+                      <li class="menu-item nav-item menu-item-has-children dropdown current-menu-item"><a href="manga_reviews.html" class="dropdown-toggle nav-link"><i class="fa fa-angle-down btn-open-dropdown"></i>Manga Reviews</a>
+                        <ul class="dropdown-menu">
+                          <li class="menu-item nav-item"><a href="romance.html" class="dropdown-text nav-link">Romance</a></li>
+                          <li class="menu-item nav-item"><a href="comedy.html" class="dropdown-text nav-link">Comedy</a></li>
+                          <li class="menu-item nav-item"><a href="action.html" class="dropdown-text nav-link">Action</a></li>
+                          <li class="menu-item nav-item"><a href="drama.html" class="dropdown-text nav-link">Drama</a></li>
+                        </ul>
+                      </li>
+                      <!-- <li class="menu-item nav-item"><a href="contact.html" class="main-text nav-link">Contact</a></li> -->
+                      <li class="menu-item nav-item"><a href="about.html" class="main-text nav-link">About</a></li>
+                    </ul>
+                  </div>
+                </nav>
+              </div>
+            </div>
+            <div class="header-mobile">
+              <div class="toggle-header-mobile">×</div>
+              <nav class="main-nav-mobile">
+                <ul>
+                  <li class="menu-item nav-item menu-item-has-children dropdown"><a href="index.html" class="dropdown-toggle nav-link"><i class="fa fa-angle-down btn-open-dropdown"></i>Home</a>
+                    <ul class="dropdown-menu">
+                      <li class="menu-item nav-item"><a href="index.html" class="dropdown-text nav-link">Home</a></li>
+                      <li class="menu-item nav-item"><a href="home-masonry.html" class="dropdown-text nav-link">My Books</a></li>
+                      <!-- <li class="menu-item nav-item"><a href="https://seykafu.notion.site/Seykafu-a8fda5021a274d82af74341b9a4a9f2e" class="dropdown-text nav-link">Past Projects</a></li> -->
+                      <li class="menu-item nav-item"><a href="https://seykafu.medium.com/" class="dropdown-text nav-link">Medium Blog</a></li>
+                      <li class="menu-item nav-item"><a href="https://seykafu.notion.site/seykafu/Darkness-Me-Colorful-You-1abf9cba146a4f16bc24f7eee9d9720e" class="dropdown-text nav-link">My Latest Book</a></li>
+                    </ul>
+                  </li>
+                  <li class="menu-item nav-item menu-item-has-children dropdown current-menu-item"><a href="manga_reviews.html" class="dropdown-toggle nav-link"><i class="fa fa-angle-down btn-open-dropdown"></i>Manga Reviews</a>
+                    <ul class="dropdown-menu">
+                      <li class="menu-item nav-item current-menu-item"><a href="romance.html" class="dropdown-text nav-link">Romance</a></li>
+                      <li class="menu-item nav-item"><a href="comedy.html" class="dropdown-text nav-link">Comedy</a></li>
+                      <li class="menu-item nav-item"><a href="action.html" class="dropdown-text nav-link">Action</a></li>
+                      <li class="menu-item nav-item"><a href="drama.html" class="dropdown-text nav-link">Drama</a></li>
+                    </ul>
+                  </li>
+                  <!-- <li class="menu-item nav-item"><a href="contact.html" class="main-text nav-link">Contact</a></li> -->
+                  <li class="menu-item nav-item"><a href="about.html" class="main-text nav-link">About</a></li>
+                </ul>
+              </nav>
+            </div>
+            <div class="header-mobile-backdrop"></div>
+          </header>
+        <div class="page-container">
+          <!-- page heading-->
+          <div class="page-heading-container">
+            <div class="page-heading news-detail"><img src="assets/images_/manga reviews/domesticgf.jpeg" alt="" class="blog-featured-image">
+              <div class="title-wrapper">
+                <div class="subtitle" style="color:white;" id="outline2">Manga Reviews</div>
+                <div class="title" style="color:white;" id="outline"> <b>Domestic na Kanojo by Sasuga Kei</b></div>
+              </div>
+              <div class="breadcrumb-wrapper">
+                <ul class="list-inline mb-0">
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="romance.html">Romance Reviews</a></li>
+                  <li class="current"><a>Domestic na Kanojo</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="page-content">
+            <div class="container">
+              <div class="row">
+                <div class="col-xl-12">
+                  <div class="mbsl"></div>
+                  <div class="page-detail">
+                    <div class="blog-wrapper">
+                      <div class="blog-header">
+                        <div class="row">
+                          <div class="col-xl-9">
+                            <div class="blog-info">
+                              <ul class="list-inline mb-0">
+                                <li class="blog-creator"><span>Review by</span><a href="about.html" class="creator-name">J.X. Fu</a></li>
+                                <li class="blog-date"><span>Jun 21, 2022</span></li>
+                                <li class="blog-comment-count"><span>Chapters: 292/292</span></li>
+                                <li class="blog-comment-count"><span>Status: Completed</span></li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div class="col-xl-3">
+                            <div class="social-share">
+                              <div class="blog-share">
+                                <ul class="socials list-inline wg-social text-center mbm">
+                                    <li><a href="https://www.instagram.com/jx.fufu/" class="swin-transition"><i class="swin-transition fa fa-instagram"></i></a></li>
+                                    <li><a href="http://twitter.com/jx_fufu" class="swin-transition"><i class="swin-transition fa fa-twitter"></i></a></li>
+                                    <li><a href="http://seykafu.medium.com" class="swin-transition"><i class="swin-transition fa fa-medium"></i></a></li>
+                                    <li><a href="http://linkedin.com/in/kaseyfu" class="swin-transition"><i class="swin-transition fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.honeyfeed.fm/u/13655" class="swin-transition"><i class="swin-transition fa fa-book"></i></a></li>          
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="blog-content">
+                        <div class="row">
+                          <div class="col-xl-5"><img src="assets/images_/manga reviews/dnk.jpeg" class="img-fluid">
+                            <div class="mbxl"></div>
+                          </div>
+                          <div class="col-xl-7">
+                            <p><b>Genres:</b> Drama, Romance, Shounen</p>
+
+                            <h4> <strong>"What a premise it was, and was a plot it was, for the most part. Where do I even begin..."
+                            </strong></h4>
+                            <p>
+                                Let's first set some background - Sasuga Kei was already a well known shounen romance/drama writer thanks to her hit manga "GE: Good Ending." 
+                                As soon as I opened page 1 of DnK, I recognized her art style immediately. Many patterns can be drawn from classic Kei sensei storytelling - 
+                                plot twists, emotional rollercoasters, and harsh moments for the protagonist. DnK, without a doubt, was the application of all the feedback 
+                                Kei sensei got from her previous work, and it flourished.
+       
+                            </p>
+                            The only thing was, it also produced new mistakes. Kei sensei decided to subvert expectations and develop an ending that wasn't 
+                            exactly friendly with her fans and readers alike, and for some good reasons which I'll dig into a bit more below.
+ 
+                            <p> <a href="https://myanimelist.net/reviews.php?id=448745"> <u>See my MAL Review.</u> </a></p>
+                          </div>
+                        </div><br>
+                        <div class="row">
+                          <div class="col-12">
+                            <h4> <strong>Story Rating - 6/10</strong></h4>
+                            <p> 
+                                In order to fully give a reasonable and just analysis on the story of DnK, we have to break down the plot into segments which will get their own scores first.
+
+                                <p>
+                                    High School Arc gets a <b> <u>  6/10 </u> </b>.
+
+                                    The high school setting was established well, which allowed for a strong introduction of both Hina and Rui as the potential lovers for Natsuo (In which they eventually became). 
+                                    The plot carried forward at a steady pace, and the supporting cast was introduced linearly, with each character offering value to the plot. Kiriya Sensei, Alex, Momo, and others; 
+                                    they provided unique flavors that enhanced the main story and even turned a few chapters into fun reads that never dulled. There were conflicts related to romance 
+                                    which brought these characters closer together and pushed the plot forward (eg. Alex's crush on Rui), and Natsuo's romantic relationships with Hina and Rui 
+                                    struck a great balance with the fun elements the other characters delivered.
+                                </p>
+                                <p>
+                                    College Arc Part 1 gets an <b><u>8/10</u></b>. In my opinion, the first half of Natsuo's college life was actually one of the best arcs within the entire story. It depicted a perfect balance between college life and Natsuo's pursuit of writing, 
+                                    while still focusing on the romantic aspect and the plot. Kei sensei introduced new characters into Natsuo's life while also adding new love interests to spice up the plot - and this was executed well. 
+                                    Various parts of drama were still incorporated to upkeep that side of the story well.
+                                </p>
+                                <p>
+                                    College Arc Part 2 gets a <b> <u> 7/10</u></b>. The latter half of this arc, ranging from Tanabe's sub-arc to the end of Rui and Natsuo's LDR, was the real wild ride. 
+                                    The plot was still strong and progression was steady, but boy oh boy did the ice cold drama begin coming. This was the highlight of the arc, as the constant dramatic cliffhangers or emotional 
+                                    events had readers stuck to the chapters. This was all a positive. However, I will admit that while the drama was taking place, the plot also began taking a turn into an odd direction, or characters 
+                                    began performing actions which slightly confused me as a reader.
+
+                                    For example, it was hard to understand the character motivations when Hina decided to just fly to NYC to visit Rui and declare her love war against her, with Rui just accepting this declaration 
+                                    despite leaving Natsuo in the first place. Additionally, Kei sensei introduced the topic of illegal drugs - a topic that felt just slightly off with the main themes of the story. 
+                                    Overall, I feel that this arc wasn't bad by itself - so perhaps I'm not being just. But it was because this arc had a lot of potential to be great and to be used as the predecessor for 
+                                    a grand finale... but was used instead as the STEPPING STONE for a true "dumpster fire" final.
+                                </p>
+                                <p>
+                                    The "Final Arc" gets a <b> <u> 5/10</u></b>.
+                                    
+                                    Quite frankly, the storytelling went from growing fast to crashing into a wall. In short, Kei sensei threw in a major twist that significantly shifted the outcome of an otherwise nicely laid out story. 
+                                    I was still quite glued to this whole manga as others were. I think the frustration and the negative reviews stems from this: The plot; the storytelling; the characters - they were SO good up until this point, 
+                                    so Kei had a lot of expectations to finish with an absolute bang that could be heard from Pluto.
+
+                                </p> 
+                                In summary, good intentions, poor execution from a reader POV.
+
+                            </p>
+                            The intentions to subvert expectations and to throw in a major plot twist THIS LATE into the whole story - they were genuine and noticeable. The problem was this: when a writer throws in this type of twist which 
+                                    causes shock amongst the fanbase, ending it off not too shortly after without providing a cushion of chapters first is not great practice. And just to be clear, this is coming from a Hina fan.
+                              </p>
+                          </div>
+                        </div>
+                        <!--
+                        <div class="mb-4"></div>
+                        <div class="row">
+                          <div class="col-md-4"><img src="assets/images/blog-detail-04.jpg" class="img-fluid">
+                            <div class="mbxl"></div>
+                          </div>
+                          <div class="col-md-4"><img src="assets/images/blog-detail-03.jpg" class="img-fluid">
+                            <div class="mbxl"></div>
+                          </div>
+                          <div class="col-md-4"><img src="assets/images/blog-detail-02.jpg" class="img-fluid">
+                            <div class="mbxl"></div>
+                          </div>
+                        </div>
+                        
+                        <div class="mb-5"></div>
+                        -->
+                        <div class="row">
+                          <div class="col-12">
+                            <h4><strong>Art Rating - 8/10</strong></h4>
+                            <p>I won't go too deep in here - but it needs to be called out that Kei sensei's art has drastically improved since GE. 
+                                The visuals that captured various cliffhangers or surprised character expressions were bang on. 
+                                Don't even get me started on the "bed" scenes - all expressions and details were well depicted. 
+                                However, in retrospect, I read DnK for the plot and the romance rather than the art, but it was certainly a joyful bonus!
+
+                            </p>
+                            <!--
+                            <ul>
+                              <li>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis on provident, similique.</li>
+                              <li>Occaecati ditate non provident, similique sunt in culpa qui officia deserunt dolorum fuga.</li>
+                              <li>Ut enim ad minim veniam, quis nostrud eitation ullamco laboris dolorum fuga quos dolores et.</li>
+                            </ul>
+                            -->
+                            <h4><strong>Characters Rating - 7/10</strong></h4>
+                            <p> The main cast (while including a few supporting ones) was well-written for the most part. Even some who didn't appear all too often 
+                                also get a nod thanks to the impact they made on the plot. However, some characters, introduced for the sole purpose of moving the plot along 
+                                (both good and bad), had questionable motivations or personalities which may have been poorly portrayed. But every story has these types 
+                                of characters, so this wasn't the main driving factor for the score.
+                                <p> 
+                                The key thing that brings this score down to average was the dynamics between Natsuo, Hina, Rui, and the "drift-off," or lack of closure 
+                                (for a few) of the supporting cast.
+
+
+                                </p>
+                                
+                                Natsuo's indecisiveness at times, coupled with his love for his sisters, was both a joy to read and occasionally a ball of frustration. 
+                                Rui and Hina love and respect each other, but is what we read in canon how a real step-sibling complication would pan out? 
+                                The love battle near the end of the story between Rui and Hina felt more forced rather than naturally falling into place. 
+                                Why did Rui just "give up" after Hina fell into a coma and essentially just say "I'm no match for you?" I can't imagine 
+                                how frustrated Rui fans were from hearing that. It's all about getting into that character's head and wanting to see what factors played into their decision-making.
+                              
+                          
+                            </p>
+                            <h4><strong>Overall Enjoyment Rating - 7/10</strong></h4>
+                            <p>If I close my eyes, throw my head into my arms against my desk and pretend the last 25 chapters had gone in a 
+                                different and more blissful path, then the enjoyment I've had for DnK was nothing but fireworks.
+                                <p>
+                                And to that I say this: in retrospect, this manga was still a blast. I stayed glued until the very end, no matter the arc. 
+                                I was as frustrated at the ending as others were, and perhaps way too many negative comments can still be reasonably made thereof. 
+                                But the story sticked to its genres, brought a rollercoaster of emotions, and still laid huge foundational expectations of what's to 
+                                come for shounen romance, as well as Kei sensei's next work.
+
+                            </p>
+                        
+                            </p>
+                            <H4>Favorite Quote (or rather, I just had to insert this lol):</H4>
+                            <blockquote class="blockquote text-left">
+                              <p class="mb-0Lorem">But... it's not like we're blood-related or anything.
+                              </p>
+                              <p class="blockquote-footer">
+                                <cite>Tachibana Rui</cite>
+                              </p>
+                            </blockquote>
+                            <p>If you're as frustrated as me, that simply just means you were still emotionally attached to this manga 
+                                and all its aspects - a sign that you still loved it.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="blog-footer">
+                        <div class="blog-tags">
+                          <ul class="list-inline mb-0">
+                            <li><a href="action.html" class="swin-transition">#Action</a></li>
+                            <li><a href="romance.html" class="swin-transition">#Romance</a></li>
+                            <li><a href="drama.html" class="swin-transition">#Drama</a></li>
+                            <li><a href="comedy.html" class="swin-transition">#Comedy</a></li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="clearfix"></div>
+                    </div>
+                    <div class="blog-author-area swin-panel">
+                      <div class="media">
+                        <div class="author-image media-left"><img src="assets/images_/seykafu copy 2.jpg" class="img-fluid"></div>
+                        <div class="media-body">
+                          <div class="row">
+                            <div class="col-xl-8">
+                              <h4 class="author-name media-heading mt-2">J.X. Fu</h4>
+                            </div>
+                            <div class="col-xl-4">
+                                <ul class="socials list-inline wg-social text-center mbm">
+                                    <li><a href="https://www.instagram.com/jx.fufu/" class="swin-transition"><i class="swin-transition fa fa-instagram"></i></a></li>
+                                    <li><a href="http://twitter.com/jx_fufu" class="swin-transition"><i class="swin-transition fa fa-twitter"></i></a></li>
+                                    <li><a href="http://seykafu.medium.com" class="swin-transition"><i class="swin-transition fa fa-medium"></i></a></li>
+                                    <li><a href="http://linkedin.com/in/kaseyfu" class="swin-transition"><i class="swin-transition fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.honeyfeed.fm/u/13655" class="swin-transition"><i class="swin-transition fa fa-book"></i></a></li>          
+                                </ul>
+                            </div>
+                          </div>
+                          <p class="author-desc mt-2">I'm a manga fanatic that reads many genres. I love writing, and have published two fiction novels: a YA Fantasy/Action titled <a href="https://seykafu.notion.site/seykafu/Darkness-Me-Colorful-You-1abf9cba146a4f16bc24f7eee9d9720e" 
+                            class="title"><u> "Darkness Me, Colorful You" </u></a> and a RomCom light novel titled <a href="https://www.amazon.com/Corruptions-Are-Best-Exposed-Autumn-ebook/dp/B0BJ27R74M/ref=sr_1_1?crid=24XNNFKGALXA9&keywords=corruptions+are+best+exposed+in+the+autumn&qid=1665868843&qu=eyJxc2MiOiIwLjA2IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=corruptions+are+best+exposed+in+the+autumn%2Caps%2C133&sr=8-1"> <u>"Corruptions Are Best Exposed In The Autumn!"</u>
+                            </a></p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="blog-navigation swin-panel">
+                      <div class="nav-arrow">
+                        <div class="item prev-item"><span>Previous Post</span></div>
+                        <div class="item next-item"><span>Next Post</span></div>
+                      </div>
+                      <div class="row">
+                        <div class="col-md-6"><a href="half&half_Review.html" rel="prev" class="post-item"><img src="assets/images_/manga reviews/halfies.jpg" class="img-fluid mb-0"><span class="post-title swin-transition">Half & Half Review</span></a></div>
+                        <div class="col-md-6"><a href="Umi_no_Misaki_Review.html" rel="prev" class="post-item"><img src="assets/images_/manga reviews/uminomisakii.webp" class="img-fluid mb-0"><span class="post-title swin-transition">Umi no Misaki Review</span></a></div>
+                      </div>
+                    </div>
+                    <!--
+                    <div class="blog-comment swin-panel mbsl">
+                      <div class="blog-comment-heading swin-title-line line-right text-uppercase font-weight-bold"><span>4 COMMENTS</span></div>
+                      <div class="comment-area">
+                        <ul class="list-unstyled">
+                          <li class="media mb-3"><img src="./assets/images/blog/blog-comment-01.jpg" class="mr-3 avatar">
+                            <div class="media-body">
+                              <div class="comment-top"><span class="comment-author">Swin-theme</span>
+                                <div class="comment-info"><span class="comment-date">December 04.2020</span><span><a href="#" class="text-danger text-uppercase">Reply</a></span></div>
+                              </div> Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+                              <div class="media mt-3"><a href="#" class="mr-3"><img src="./assets/images/blog/blog-comment-02.jpg" class="mr-3 avatar"></a>
+                                <div class="media-body">
+                                  <div class="comment-top"><span class="comment-author">Anna Doe</span>
+                                    <div class="comment-info"><span class="comment-date">December 04.2020</span><span><a href="#" class="text-danger text-uppercase">Reply</a></span></div>
+                                  </div>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li class="media mb-3"><img src="./assets/images/blog/blog-comment-03.jpg" class="mr-3 avatar">
+                            <div class="media-body">
+                              <div class="comment-top"><span class="comment-author">Kelvin Tang</span>
+                                <div class="comment-info"><span class="comment-date">December 04.2020</span><span><a href="#" class="text-danger text-uppercase">Reply</a></span></div>
+                              </div> Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+                            </div>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="comment-respond">
+                        <div class="swin-title-line line-right text-uppercase font-weight-bold"><span>Leave comment</span></div>
+                        <div class="mbl"></div>
+                        <form action="#" method="post" class="comment-form row">
+                          <div class="form-group col-md-6">
+                            <div class="input-group">
+                              <input id="author" name="author" type="text" value="" aria-required="true" required="required" placeholder="Your Name" class="form-control">
+                            </div>
+                          </div>
+                          <div class="form-group col-md-6">
+                            <div class="input-group">
+                              <input id="email" name="email" type="text" value="" size="30" aria-required="true" required="required" placeholder="Email Address" class="form-control">
+                            </div>
+                          </div>
+                          <div class="form-group col-md-12">
+                            <textarea id="comment" name="comment" required="required" placeholder="Your Comment" rows="10" class="form-control"></textarea>
+                          </div>
+                          <div class="form-group col-md-12 mb-0">
+                            <button class="swin-btn swin-btn-primary"><span>Post Comment</span></button>
+                          </div>
+                        </form>
+                      </div>
+                    </div>
+                    -->
+                  </div>
+                  <div class="mbsl d-none d-xs-block"></div>
+                </div>
+                <div class="mbsl"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <footer class="light">
+          <!-- footer main-->
+          <!-- Start Footer Content-->
+          <!--
+          <div class="footer-content special-layout">
+            <div class="footer-main">
+              <div class="ft-widget-area full-width">
+                <div class="alay-widget">
+                  <div class="widget-title title"><span class="font-weight-bold"> Follow on instagram</span></div>
+                  <div class="widget-content">
+                    <div class="instagram-gallery alay-col-6"><a href="#" class="img-wrap"><img src="./assets/images/instagram/follow-insta-01.jpg" alt="Alay"></a><a href="#" class="img-wrap"><img src="./assets/images/instagram/follow-insta-02.jpg" alt="Alay"></a><a href="#" class="img-wrap"><img src="./assets/images/instagram/follow-insta-03.jpg" alt="Alay"></a><a href="#" class="img-wrap"><img src="./assets/images/instagram/follow-insta-04.jpg" alt="Alay"></a><a href="#" class="img-wrap"><img src="./assets/images/instagram/follow-insta-05.jpg" alt="Alay"></a><a href="#" class="img-wrap"><img src="./assets/images/instagram/follow-insta-06.jpg" alt="Alay"></a></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+            -->
+          <!-- End Footer Content-->
+          <!-- Footer bottom-->
+          <div class="site-info footer-bottom">
+            <div class="container">
+              <div class="block-left">
+                <div class="alay-widget wg-social">
+                    <ul class="socials list-inline wg-social text-center mbm">
+                        <li><a href="https://www.instagram.com/jx.fufu/" class="swin-transition"><i class="swin-transition fa fa-instagram"></i></a></li>
+                        <li><a href="http://twitter.com/jx_fufu" class="swin-transition"><i class="swin-transition fa fa-twitter"></i></a></li>
+                        <li><a href="http://seykafu.medium.com" class="swin-transition"><i class="swin-transition fa fa-medium"></i></a></li>
+                        <li><a href="http://linkedin.com/in/kaseyfu" class="swin-transition"><i class="swin-transition fa fa-linkedin"></i></a></li>
+                        <li><a href="https://www.honeyfeed.fm/u/13655" class="swin-transition"><i class="swin-transition fa fa-book"></i></a></li>          
+                    </ul>
+                </div>
+              </div>
+              <div class="block-right">
+                <div class="content-text"><span class="text">Copyright © 2023 Seykafu</span></div>
+              </div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </footer><a id="totop" href="#" class="animated zoomIn"><i class="fa fa-angle-up"></i></a>
+        <div id="switch-mode"><span class="dark-mode mode-control"><i class="fa fa-moon-o"></i></span><span class="light-mode mode-control d-none"><i class="fa fa-sun-o"></i></span></div>
+      </div>
+    </div>
+    <div class="overlay overlay-scale search-overlay">
+      <button type="button" class="overlay-close">×</button>
+      <form action="#">
+        <input type="text" placeholder="Search" autofocus class="form-control">
+      </form>
+    </div>
+    <div class="preloader">
+      <div class="loader">
+        <svg viewBox="25 25 50 50" class="circular">
+          <circle cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" class="path"></circle>
+        </svg>
+      </div>
+    </div>
+    <!-- jQuery-->
+    <script src="assets/vendors/jquery-1.10.2.min.js"></script>
+    <!-- Bootstrap Dependence-->
+    <script src="assets/vendors/popper.min.js"></script>
+    <!-- Bootstrap JavaScript-->
+    <script src="assets/vendors/bootstrap/js/bootstrap.min.js"></script>
+    <!-- Vendors-->
+    <script src="assets/vendors/slick/slick.min.js"></script>
+    <script src="assets/vendors/masonry/masonry.pkgd.min.js"></script>
+    <script src="assets/vendors/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/vendors/jquery-countTo/jquery.countTo.min.js"></script>
+    <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
+    <script src="assets/vendors/parallax/parallax.min.js"></script>
+    <script src="assets/vendors/gmaps/gmaps.min.js"></script>
+    <script src="assets/vendors/audiojs/audio.min.js"></script>
+    <script src="assets/vendors/wowjs/wow.min.js"></script>
+    <script src="assets/vendors/skrollr.min.js"></script>
+    <script src="assets/vendors/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
+    <script src="assets/vendors/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="assets/vendors/classie.js"></script>
+    <script src="assets/vendors/fullscreen-overlay/js/style5.js"></script>
+    <script src="assets/vendors/lightbox/js/lightbox.min.js"></script>
+    <!-- Own script-->
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/shortcode.js"></script>
+  </body>
+</html>
