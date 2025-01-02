@@ -40,7 +40,7 @@ function MainContent() {
                     </div>
                     <div class="col-lg-8">
                       <div class="about-heading"><span class="heading-name">Kasey/JX Fu's Website!</span>
-                        <span class="heading-job"><span>/</span><span>PM, Writer, and Game + Manga fanatic!</span></span></div>
+                        <span class="heading-job"><span>/</span><span>PM, Writer, Community Builder</span></span></div>
                         <p>I'm a product manager, writer, aspiring entrepreneur, and game enthusiast (I like strategy and tactical RPG). I hold many interests and have worked on many side projects.</p>
 
                         <h4>What do I do?</h4>

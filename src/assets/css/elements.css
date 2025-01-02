@@ -284,7 +284,9 @@ img {
 
 .swin-panel {
   box-shadow: 0 7px 15px rgba(0, 0, 0, 0.1);
-  padding: 20px; }
+  padding: 20px; 
+  border-radius: 25px;
+}
 
 .swin-panel-interesting {
   position: relative;
