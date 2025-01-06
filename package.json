@@ -1,6 +1,9 @@
 {
   "name": "seykafu",
   "version": "1.0.0",
+   "engines": {
+    "node": ">=20.10.0"
+   }
   "description": "new react site",
   "main": "index.js",
   "dependencies": {
