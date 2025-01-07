@@ -46,11 +46,11 @@ function MainContent() {
                         <h4>My main focus </h4>
                         <p>During the day, I'm a PM in the AI space. I was previously at Microsoft Bing, shipping AI models and features in their backend platform. Now I'm at Planview,
                           shipping a new AI assistant for its broad range of F500 customers. On the side, I write articles for various publications such as Product Coalition, Bootcamp, and SUPERJUMP. I'm also a published
-                          fiction author and am currently working on a non-fiction book. I'm interested in industries such as gaming, enterprise, and content creation.
+                          fiction author and currently working on a non-fiction book. I'm interested in industries such as gaming, enterprise, and content creation.
                         </p>
 
                         <h4>My other projects</h4>
-                      <p>I'm a part-time writer & a published fiction author; my books include a YA Fantasy/Action titled <a href="https://www.amazon.com/dp/B0BJZXKMM9" 
+                        <p>I'm a part-time writer & a published fiction author; my books include a YA Fantasy/Action titled <a href="https://www.amazon.com/dp/B0BJZXKMM9" 
                           class="title"><u>"Darkness Me, Colorful You"</u></a> and a RomCom light novel titled <a href="https://www.amazon.com/Corruptions-Are-Best-Exposed-Autumn-ebook/dp/B0BJ27R74M/ref=sr_1_1?crid=24XNNFKGALXA9&keywords=corruptions+are+best+exposed+in+the+autumn&qid=1665868843&qu=eyJxc2MiOiIwLjA2IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=corruptions+are+best+exposed+in+the+autumn%2Caps%2C133&sr=8-1"> <u>"Corruptions Are Best Exposed In The Autumn!"</u>
                           </a>
                         </p>
