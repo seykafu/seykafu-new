@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import './assets/vendors/bootstrap/css/bootstrap.min.css';
 import './assets/vendors/font-awesome/css/font-awesome.min.css';
@@ -18,10 +17,6 @@ import './assets/css/widget.css';
 import './assets/css/extra.css';
 import './assets/css/responsive.css';
 import HomePage from './pages/HomePage';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import MainContent from './components/Main_Content';
-import BottomContent from './components/Bottom_Content';
 import Books from './pages/Books';
 import Blogs from './pages/Blogs';
 import Manga from './pages/Manga';
