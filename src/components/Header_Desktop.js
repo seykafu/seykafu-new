@@ -30,7 +30,7 @@ const Header_Desktop = () => {
                                         </li>
                                         {/* <li className="menu-item nav-item"><Link to="https://seykafu.notion.site/Seykafu-a8fda5021a274d82af74341b9a4a9f2e" className="dropdown-text nav-link">Past Projects</Link></li> */}
                                         <li className="menu-item nav-item"><Link to="https://seykafu.notion.site/seykafu/Seykafu-a8fda5021a274d82af74341b9a4a9f2e" className="dropdown-text nav-link">Projects</Link></li>
-
+                                        {/*}
                                         <li className="menu-item nav-item menu-item-has-children dropdown"><Link to="/manga" className="dropdown-text nav-link"><i className="fa fa-angle-down btn-open-dropdown"></i>Manga Reviews</Link>
                                             <ul className="dropdown-menu">
                                                 <li className="menu-item nav-item"><Link to="/comedy" className="dropdown-text nav-link">Comedy</Link></li>

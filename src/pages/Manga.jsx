@@ -16,7 +16,6 @@ import '../assets/css/shortcode.css';
 import '../assets/css/widget.css';
 import '../assets/css/extra.css';
 import '../assets/css/responsive.css';
-import DemonSlayer from './manga/DS';
 import seykafu from '../assets/images/seykafu.jpg';
 import demonslayer from '../assets/images/manga reviews/demonslayer.webp';
 import tanaka from '../assets/images/manga reviews/tanaka.jpeg';
