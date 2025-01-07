@@ -945,11 +945,12 @@ blockquote {
   .about-intro .about-heading .heading-name {
     font-size: 2rem;
     color: #000000;
-    font-weight: 600; }
+    font-weight: 600;}
   .about-intro .about-heading span {
-    margin-right: 6px; }
+    margin-right: 6px;
+   }
   .about-intro .about-heading .heading-job {
-    font-size: 18px; }
+    font-size: 18px;}
 
 /* ==========================================================================
   #DarkMode
@@ -995,7 +996,8 @@ body.dark-mode {
   body.dark-mode .about-intro {
     color: #e6e6e6; }
     body.dark-mode .about-intro .about-heading .heading-name {
-      color: #ffffff; }
+      color: #ffffff;
+      padding-bottom: 10px; }
   body.dark-mode .blog-wrapper {
     background-color: #333;
     box-shadow: 0 0 20px black; }

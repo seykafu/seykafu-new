@@ -40,7 +40,10 @@ function Books() {
         <div class="container">
           <div class="container"> <br></br> </div>
           <div class="about-heading"><h1 class="heading-name">My Books & Stories</h1>
-                        <span class="heading-job"><span></span><span>I've published 2 fiction novels & a few short stories.</span></span></div>
+                        <span class="heading-job"><span></span><span>I've published 2 fiction novels & a few short stories.
+                          </span></span>
+                        
+                          </div>
           <div class="row mbxxl">
             <div class="col-lg-12">
               <div class="alay-sc-blog-list style-vertical">
@@ -53,13 +56,14 @@ function Books() {
                     </a>
               
                       <p class="content">
-                        500 years ago, a powerful beast named "Baku" arrived in the continent known as Perpetua, aiming to destroy all of humanity. After the Goddess defeated this monster, she was warned that he would one day return in the future.
+                        500 years ago, a powerful beast named "Baku" arrived in the continent known as Perpetua, aiming to destroy all of humanity. 
+                        After the Goddess defeated this monster, she was warned that he would one day return in the future.
                         Meanwhile, in the present, Koka Ferrers is a young man who has more than a few sins from his unknown past, and everyone around him, even the Goddess  
-                        - Valentina Jasper - who’s regarded as a legend for having once saved the world, absolutely hates his guts... just what can he even do?
+                        - Valentina Jasper - who’s regarded as a legend for having once saved the world, despises him.
                       </p>
                       <p/>
-                        He has only one choice: search for those lost memories, stop the incoming beast that is Baku, redeem himself by fighting through the fire of hatred 
-                        directed at him, and befriend Valentina. Throughout this journey, he may even uncover the true culprit pulling the strings behind Baku's return and the mysterious lore which everyone believed so much in.
+                        He has one choice: search for those lost memories, stop the incoming beast Baku, redeem himself by fighting through the fire of hatred 
+                        directed at him, and befriend Valentina. He may even uncover the true culprit pulling the strings behind Baku's return and fake lore brainwashing everybody.
                       <p>
                         Ultimately, this book is a YA (Young Adult) series with fantasy, action, romance and mystery as its main genres. I'm using one of the ancient 
                         7 Wonders of the World (<a href="https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon"><u>Hanging Gardens of Babylon</u></a>) as a 
@@ -83,8 +87,9 @@ function Books() {
                       class="title">Corruptions Are Best Exposed In The Autumn! Vol. 1 - Free to Read!
                       </a>
                       <p class="content">(Read on <a href="https://www.amazon.com/Corruptions-Are-Best-Exposed-Autumn-ebook/dp/B0BJ27R74M/ref=sr_1_1?crid=24XNNFKGALXA9&keywords=corruptions+are+best+exposed+in+the+autumn&qid=1665868843&qu=eyJxc2MiOiIwLjA2IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=corruptions+are+best+exposed+in+the+autumn%2Caps%2C133&sr=8-1"
-                        > <u>Kindle</u></a>, <a href="https://www.honeyfeed.fm/novels/7852"> <u>Honeyfeed</u></a>, <a href="https://www.wattpad.com/story/321436184-corruptions-are-best-exposed-in-the-autumn"> <u>Wattpad</u></a>, <a href="https://tapas.io/series/corruptions/info"><u>Tapas</u></a>!) Watch a poor man and a superstar woman clash in this Rom-Com! Life couldn't have crashed harder for the formerly rich Kai Darak, 
-                        who lost everything thanks to his father's corruption while gaining a 30 million dollar debt. 
+                        > <u>Kindle</u></a>, <a href="https://www.honeyfeed.fm/novels/7852"> <u>Honeyfeed</u></a>, <a href="https://www.wattpad.com/story/321436184-corruptions-are-best-exposed-in-the-autumn"> <u>Wattpad</u></a>, <a href="https://tapas.io/series/corruptions/info"><u>Tapas</u></a>!)
+                        Follow a poor, struggling man and a superstar soccer woman clash in this RomCom! Life couldn't have crashed harder for the formerly rich Kai Darak, 
+                        who lost everything thanks to his father's shady and corrupt business that fell under, passing on a 30 million dollar debt to his son. 
                       
                       </p>
                       <p>
@@ -96,8 +101,8 @@ function Books() {
                     </p>
                       <p>
                       Realizing her life was ruined on multiple occasions by his father, Kai faces both love and guilt. 
-                      Additionally, the head of another rich business - which his café depends on - proposes 
-                      to him to marry into his family...or else his shop is done for.
+                      Additionally, the head of another rich business - which his café depends on - demands that
+                      he marry into their family...or else his shop is done for.
                     </p>
                       </p>
                       <div class="block-footer">
