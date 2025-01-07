@@ -36,7 +36,7 @@ const Footer = () => {
                             </div>
                         </div>
                         <div className="block-right">
-                        <div className="content-text"><span className="text">Copyright © 2024 - by Seykafu</span></div>
+                        <div className="content-text"><span className="text">Copyright © 2025 - Kasey Fu</span></div>
                         </div>
                         <div className="clearfix"></div>
                     </div>

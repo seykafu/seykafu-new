@@ -17,7 +17,7 @@ import '../assets/css/shortcode.css';
 import '../assets/css/widget.css';
 import '../assets/css/extra.css';
 import '../assets/css/responsive.css';
-import shanghaiImage from '../assets/images/shanghai.jpg';
+import OreoandI from '../assets/images/Oreo and I.jpg';
 
 function MainContent() {
   return (
@@ -27,7 +27,7 @@ function MainContent() {
                 <div class="about-intro swin-panel mbsl mtsl">
                   <div class="row">
                     <div class="col-lg-4">
-                      <div class="about-image mbl text-center"><img src={shanghaiImage} alt="Kasey Fu" class="img-responsive"/></div>
+                      <div class="about-image mbl text-center"><img src={OreoandI} alt="Kasey Fu" class="img-responsive"/></div>
                       <ul class="socials list-inline wg-social text-center mbm">
                         <li><a href="https://www.instagram.com/jx.fufu/" class="swin-transition"><i class="swin-transition fa fa-instagram"></i></a></li>
                         <li><a href="http://twitter.com/jx_fufu" class="swin-transition"><i class="swin-transition fa fa-twitter"></i></a></li>
@@ -41,11 +41,12 @@ function MainContent() {
                     <div class="col-lg-8">
                       <div class="about-heading"><span class="heading-name">Kasey/JX Fu's Website!</span>
                         <span class="heading-job"><span>/</span><span>PM, Writer, Community Builder</span></span></div>
-                        <p>I'm a product manager, writer, aspiring entrepreneur, and game enthusiast (I like strategy and tactical RPG). I hold many interests and have worked on many side projects.</p>
+                        <p>I'm a product manager, writer, author, and community builder. I'm the co-founder of PM Hive, Vancouver's PM community.</p>
 
-                        <h4>What do I do?</h4>
-                        <p>I'm a PM in the AI space. I was previously at Microsoft Bing, shipping AI models and features in their backend platform. Now I'm at Planview,
-                          shipping a new AI copilot for its broad range of customers. In general, I'm interested in industries such as gaming, enterprise, and content creation.
+                        <h4>My main focus </h4>
+                        <p>During the day, I'm a PM in the AI space. I was previously at Microsoft Bing, shipping AI models and features in their backend platform. Now I'm at Planview,
+                          shipping a new AI assistant for its broad range of F500 customers. On the side, I write articles for various publications such as Product Coalition, Bootcamp, and SUPERJUMP. I'm also a published
+                          fiction author and am currently working on a non-fiction book. I'm interested in industries such as gaming, enterprise, and content creation.
                         </p>
 
                         <h4>My other projects</h4>
@@ -56,7 +57,7 @@ function MainContent() {
                       
                           <h4>My Background</h4>
                           <p>Before diving into writing and PM work, I graduated with a Bachelor's of Science in Science and Business from the University of Waterloo.
-                            I've completed many internships in product before graduating. I've been involved in many activities - you can see them all here. 
+                            I've completed many internships in product before graduating. 
                           </p>
                         Here, you'll find more about me, my <a href= "https://seykafu.medium.com"> <u>Medium blog</u></a>, <a href="books.html"> <u>my books</u></a>, and my <a href="manga_reviews.html"> <u>manga review blog</u></a>!
                     </div>
