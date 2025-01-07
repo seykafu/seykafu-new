@@ -30,7 +30,7 @@ function MainContent() {
                       <div class="about-image mbl text-center"><img src={OreoandI} alt="Kasey Fu" class="img-responsive"/></div>
                       <ul class="socials list-inline wg-social text-center mbm">
                         <li><a href="https://www.instagram.com/jx.fufu/" class="swin-transition"><i class="swin-transition fa fa-instagram"></i></a></li>
-                        <li><a href="http://twitter.com/jx_fufu" class="swin-transition"><i class="swin-transition fa fa-twitter"></i></a></li>
+                        <li><a href="http://twitter.com/seykafu" class="swin-transition"><i class="swin-transition fa fa-twitter"></i></a></li>
                         <li><a href="http://seykafu.medium.com" class="swin-transition"><i class="swin-transition fa fa-medium"></i></a></li>
                         <li><a href="http://linkedin.com/in/kaseyfu" class="swin-transition"><i class="swin-transition fa fa-linkedin"></i></a></li>
                         <li><a href="https://www.honeyfeed.fm/u/13655" class="swin-transition"><i class="swin-transition fa fa-book"></i></a></li>

@@ -666,7 +666,8 @@ Press Ctrl + F to find component. Ex: "#Header";
   background-color: #fff;
   box-shadow: 0 7px 15px rgba(0, 0, 0, 0.1);
   padding: 45px;
-  width: 100%; }
+  width: 100%;
+  border-radius: 25px; }
   .alay-sc-newsletter .title span {
     font-weight: 900;
     font-size: 18px;
@@ -683,7 +684,8 @@ Press Ctrl + F to find component. Ex: "#Header";
       transform: translateY(-50%); }
   .alay-sc-newsletter .description {
     color: #555555;
-    font-weight: 300; }
+    font-weight: 300;
+  padding-right: 20px;}
   .alay-sc-newsletter form.newsletter {
     text-align: right; }
   .alay-sc-newsletter .block-left,
