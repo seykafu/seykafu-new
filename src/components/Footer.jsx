@@ -41,7 +41,6 @@ const Footer = () => {
                     </div>
                     </div>
                 </footer><a id="totop" href="#" className="animated zoomIn"><i className="fa fa-angle-up"></i></a>
-                <div id="switch-mode"><span className="dark-mode mode-control"><i className="fa fa-moon-o"></i></span><span className="light-mode mode-control d-none"><i className="fa fa-sun-o"></i></span></div>
             </div>
         );
     };
