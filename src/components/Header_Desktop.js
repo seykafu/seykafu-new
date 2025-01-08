@@ -26,9 +26,8 @@ const Header_Desktop = () => {
                                     <ul id="main-nav" className="nav nav-pills">
                                         <li className="menu-item nav-item"><Link to="/" className="dropdown-text nav-link"><i className="fa fa-angle-down btn-open-dropdown"></i>Home</Link> </li>
                                         <li className="menu-item nav-item">
-                                            <Link to="/books" className="dropdown-text nav-link">My Books & Writing</Link>
+                                            <Link to="/books" className="dropdown-text nav-link">My Books</Link>
                                         </li>
-                                        {/* <li className="menu-item nav-item"><Link to="https://seykafu.notion.site/Seykafu-a8fda5021a274d82af74341b9a4a9f2e" className="dropdown-text nav-link">Past Projects</Link></li> */}
                                         <li className="menu-item nav-item"><Link to="https://seykafu.notion.site/seykafu/Seykafu-a8fda5021a274d82af74341b9a4a9f2e" className="dropdown-text nav-link">Projects</Link></li>
                                         {/*}
                                         <li className="menu-item nav-item menu-item-has-children dropdown"><Link to="/manga" className="dropdown-text nav-link"><i className="fa fa-angle-down btn-open-dropdown"></i>Manga Reviews</Link>
@@ -40,7 +39,7 @@ const Header_Desktop = () => {
                                             </ul>
                                         </li>
                                         {/* <li className="menu-item nav-item"><Link to="/contact" className="main-text nav-link">Contact</Link></li> */}
-                                        <li className="menu-item nav-item"><Link to="/blog" className="main-text nav-link">Product Blog</Link></li>
+                                        <li className="menu-item nav-item"><Link to="/blog" className="main-text nav-link">Other Writing</Link></li>
                                     </ul>
                                 </div>
                             </nav>
