@@ -49,7 +49,7 @@ function MainContent() {
                           fiction author and currently working on a non-fiction book. I'm interested in industries such as gaming, enterprise, and content creation.
                         </p>
 
-                        <h4>My other projects</h4>
+                        <h4>My Authorship</h4>
                         <p>I'm a part-time writer & a published fiction author; my books include a YA Fantasy/Action titled <a href="https://www.amazon.com/dp/B0BJZXKMM9" 
                           class="title"><u>"Darkness Me, Colorful You"</u></a> and a RomCom light novel titled <a href="https://www.amazon.com/Corruptions-Are-Best-Exposed-Autumn-ebook/dp/B0BJ27R74M/ref=sr_1_1?crid=24XNNFKGALXA9&keywords=corruptions+are+best+exposed+in+the+autumn&qid=1665868843&qu=eyJxc2MiOiIwLjA2IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=corruptions+are+best+exposed+in+the+autumn%2Caps%2C133&sr=8-1"> <u>"Corruptions Are Best Exposed In The Autumn!"</u>
                           </a>
@@ -59,7 +59,7 @@ function MainContent() {
                           <p>Before diving into writing and PM work, I graduated with a Bachelor's of Science in Science and Business from the University of Waterloo.
                             I've completed many internships in product before graduating. 
                           </p>
-                        Here, you'll find more about me, my <a href= "https://seykafu.medium.com"> <u>Medium blog</u></a>, <a href="books.html"> <u>my books</u></a>, and my <a href="manga_reviews.html"> <u>manga review blog</u></a>!
+                        Here, you'll find more about me, my <a href= "https://seykafu.medium.com"> <u>Medium blog</u></a>, <a href="/Books"> <u>my books</u></a>, and my <a href="/Blog"> <u>other works!</u></a>!
                     </div>
                   </div>
                 </div>

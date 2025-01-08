@@ -16,13 +16,14 @@ const Header_Mobile = () => {
                             <ul>
                                 <li className="menu-item nav-item menu-item-has-children dropdown"><a href="index.html" className="dropdown-toggle nav-link"><i className="fa fa-angle-down btn-open-dropdown"></i>Home</a>
                                     <ul className="dropdown-menu">
-                                        <li className="menu-item nav-item current-menu-item"><a href="index.html" className="dropdown-text nav-link">Home</a></li>
-                                        <li className="menu-item nav-item"><a href="books.html" className="dropdown-text nav-link">My Books</a></li>
-                                        {/* <li className="menu-item nav-item"><a href="https://seykafu.notion.site/Seykafu-a8fda5021a274d82af74341b9a4a9f2e" className="dropdown-text nav-link">Past Projects</a></li> */}
-                                        <li className="menu-item nav-item"><a href="mediums.html" className="dropdown-text nav-link">Medium Blog</a></li>
-                                        <li className="menu-item nav-item"><a href="https://www.amazon.com/dp/B0BJZXKMM9" className="dropdown-text nav-link">My Latest Book</a></li>
+                                        <li className="menu-item nav-item"><Link to="/" className="dropdown-text nav-link"><i className="fa fa-angle-down btn-open-dropdown"></i>Home</Link> </li>
+                                        <li className="menu-item nav-item">
+                                            <Link to="/books" className="dropdown-text nav-link">My Books & Writing</Link>
+                                        </li>
+                                        <li className="menu-item nav-item"><Link to="https://seykafu.notion.site/seykafu/Seykafu-a8fda5021a274d82af74341b9a4a9f2e" className="dropdown-text nav-link">Projects</Link></li>
                                     </ul>
                                 </li>
+                                {/*
                                 <li className="menu-item nav-item menu-item-has-children dropdown"><a href="manga_reviews.html" className="dropdown-toggle nav-link"><i className="fa fa-angle-down btn-open-dropdown"></i>Manga Reviews</a>
                                     <ul className="dropdown-menu">
                                         <li className="menu-item nav-item"><a href="romance.html" className="dropdown-text nav-link">Romance</a></li>
@@ -31,8 +32,8 @@ const Header_Mobile = () => {
                                         <li className="menu-item nav-item"><a href="drama.html" className="dropdown-text nav-link">Drama</a></li>
                                     </ul>
                                 </li>
+                                */}
                                 {/* <li className="menu-item nav-item"><a href="contact.html" className="main-text nav-link">Contact</a></li> */}
-                                <li className="menu-item nav-item"><a href="about.html" className="main-text nav-link">About</a></li>
                             </ul>
                         </nav>
                     </div>
